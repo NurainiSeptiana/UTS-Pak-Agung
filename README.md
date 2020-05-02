@@ -54,3 +54,6 @@ Hasil pekerjaan submit pada repository github masing-masing
 ![Hasilweb](https://user-images.githubusercontent.com/46736283/80854497-bf3a4b00-8bed-11ea-9952-709c0fea6c70.png)
 
 ![Hasilweb2](https://user-images.githubusercontent.com/46736283/80854511-e3962780-8bed-11ea-844b-3edcf1b3e862.png)
+
+
+Terimakasih
