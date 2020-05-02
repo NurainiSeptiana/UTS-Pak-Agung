@@ -1,8 +1,11 @@
 # UTS-Pak-Agung
 
 Nama  : Nuraini Septiana
+
 Nim   : 311810009
+
 Kelas : TI.18.A3
+
 Type  : Ganjil
 
 Soal
